@@ -18,12 +18,18 @@ This repository contains the frontend code for the To-Do application. It include
     cd todo\todoprj
     ```
 3. **Install dependencies**:
+     ```sh
        pip install -r requirements.txt
-4. **Apply migrations**:
+     ```
+5. **Apply migrations**:
+     ```sh
         python manage.py makemigrations
         python manage.py migrate
-5. **Run the development server**:
+     ```
+7. **Run the development server**:
+     ```sh
         python manage.py runserver
+     ```
     **Access the application at http://127.0.0.1:8000/ in your web browser.**
 
 
