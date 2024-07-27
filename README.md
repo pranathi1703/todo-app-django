@@ -15,7 +15,7 @@ This repository contains the frontend code for the To-Do application. It include
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd tpg/todo/todoprj/todoapp/templates/todoapp
+    cd todo\todoprj
     ```
 3. **Install dependencies**:
        pip install -r requirements.txt
